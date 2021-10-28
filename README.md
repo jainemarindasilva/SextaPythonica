@@ -3,6 +3,6 @@
 # SextaPythonica
 Grupo de estudos para entusiastas de Python
 
-Este grupo tem o intuito de auxiliar no aprendizado e compartilhar os conhecimentos adquiridos nas SextaOn de Negócios Digitais - Empresas Randon.
+Este grupo tem o intuito de auxiliar no aprendizado e disseminar os conhecimentos adquiridos nas SextaOn de Negócios Digitais - Empresas Randon.
 
-Como não serão aulas, cada um será responsável pelo próprio aprendizado, tendo o grupo como amparo para esclarecimento de dúvidas.
+Como não serão aulas, cada um será responsável pelo próprio aprendizado, tendo o grupo como amparo para esclarecimento de dúvidas, compartilhamento de recursos de estudos e exercícios. 
