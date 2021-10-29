@@ -89,6 +89,10 @@ Dito isso, se você quiser continuar com o exemplo, sinta-se à vontade para usa
 - "Você é atacado por uma truta furiosa. Fim do jogo."
 - "Você caiu em um buraco. Fim do jogo."
 
+
+Após resolver os exercícios acima, commite-os no respectivo diretório. Ex.: 'Exe01/Band_Name_Generator_Jai.py'.
+
+
 *Exercícios retirados de:*
 
 https://leetcode.com/
