@@ -7,6 +7,8 @@ Este grupo tem o intuito de auxiliar no aprendizado e disseminar os conhecimento
 
 Como não serão aulas, cada um será responsável pelo próprio aprendizado, tendo o grupo como amparo para esclarecimento de dúvidas, compartilhamento de recursos de estudos e exercícios. 
 
+Ah... Sinta-se a vontade para colaborar com o conteúdo.
+
 ## Como funciona?
 
 Para facilitar a organização do aprendizado, seguiremos o roadmap disponível [aqui](https://roadmap.sh/python). :exploding_head: :exploding_head:
