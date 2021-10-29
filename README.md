@@ -23,6 +23,6 @@ Então, de maneira geral a ideia é a seguinte:
 
 ### Tópicos
 
-[Learning the basics]()
+[Learning the basics](https://github.com/jainemarindasilva/SextaPythonica/tree/main/learning_the_basics)
 
 
