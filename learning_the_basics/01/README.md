@@ -90,5 +90,7 @@ Dito isso, se você quiser continuar com o exemplo, sinta-se à vontade para usa
 - "Você caiu em um buraco. Fim do jogo."
 
 *Exercícios retirados de:*
+
 https://leetcode.com/
+
 https://www.udemy.com/course/100-days-of-code/
