@@ -15,7 +15,7 @@ Para facilitar a organização do aprendizado, seguiremos o roadmap disponível 
 
 Então, de maneira geral a ideia é a seguinte: 
 
-:brain: Estudar um conteúdo do roadmap (os tópicos estão listados abaixo) por semana.
+:brain: Estudar um conteúdo do roadmap por semana (os tópicos estão listados abaixo).
 
 :muscle: Praticar resolvendo um (ou alguns) exercício(s) dos exercícios propostos em cada tópico.
 
