@@ -20,7 +20,6 @@ Então, de maneira geral a ideia é a seguinte:
 :muscle: Praticar resolvendo um (ou alguns) exercício(s) dos exercícios propostos em cada tópico.
 
 :speech_balloon: Discutir sobre dúvidas e aprendizados. 
-
 ***Bora?***
 
 ## Tópicos
