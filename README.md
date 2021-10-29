@@ -13,7 +13,7 @@ Para facilitar a organização do aprendizado, seguiremos o roadmap disponível 
 
 Então, de maneira geral a ideia é a seguinte: 
 
-:brain: Estudar um conteúdo do roadmap (os tópicos estão listados abaixo).
+:brain: Estudar um conteúdo do roadmap (os tópicos estão listados abaixo) por semana.
 
 :muscle: Praticar resolvendo um (ou alguns) exercício(s) dos exercícios propostos em cada tópico.
 
@@ -21,7 +21,7 @@ Então, de maneira geral a ideia é a seguinte:
 
 ***Bora?***
 
-### Tópicos
+## Tópicos
 
 [Learning the basics](https://github.com/jainemarindasilva/SextaPythonica/tree/main/learning_the_basics)
 
