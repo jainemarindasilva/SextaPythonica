@@ -9,6 +9,20 @@ Como não serão aulas, cada um será responsável pelo próprio aprendizado, te
 
 ## Como funciona?
 
-Para facilitar a organização do aprendizado, seguiremos o roadmap disponível [aqui](https://roadmap.sh/python).
+Para facilitar a organização do aprendizado, seguiremos o roadmap disponível [aqui](https://roadmap.sh/python). :exploding_head: :exploding_head:
 
-A ideia é a seguinte: estudar um conteúdo do roadmap, praticar resolvendo um (ou alguns) exercício(s) e ao final da outra semana nos reunirmos para discutirmos sobre dúvidas e aprendizados. Bora?
+Então, de maneira geral a ideia é a seguinte: 
+
+:brain: Estudar um conteúdo do roadmap (os tópicos estão listados abaixo).
+
+:muscle: Praticar resolvendo um (ou alguns) exercício(s) dos exercícios propostos em cada tópico.
+
+:speech_balloon: Discutir sobre dúvidas e aprendizados. 
+
+***Bora?***
+
+### Tópicos
+
+[Learning the basics]()
+
+
