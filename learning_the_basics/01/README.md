@@ -10,6 +10,10 @@
 #### Material de apoio...
 
 - https://docs.python.org/pt-br/3/tutorial/introduction.html
+- https://docs.python.org/pt-br/3/tutorial/introduction.html#strings
+- https://docs.python.org/pt-br/3/tutorial/inputoutput.html
+- https://docs.python.org/pt-br/3/tutorial/introduction.html#numbers
+- https://docs.python.org/pt-br/3/tutorial/controlflow.html#if-statements
 - https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3
 - https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4
 - https://www.youtube.com/watch?v=DZwmZ8Usvnk&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=7
@@ -84,3 +88,7 @@ Dito isso, se você quiser continuar com o exemplo, sinta-se à vontade para usa
 - "Você escolheu uma porta que não existe. Fim do jogo."
 - "Você é atacado por uma truta furiosa. Fim do jogo."
 - "Você caiu em um buraco. Fim do jogo."
+
+*Exercícios retirados de:*
+https://leetcode.com/
+https://www.udemy.com/course/100-days-of-code/
