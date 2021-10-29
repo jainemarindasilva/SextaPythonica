@@ -40,3 +40,9 @@ print(s[::-1]) # Salta de um caracter por vez e começa pelo último (por causa 
 	# !odnum ,álO
 print(s[::-2]) # Salta de dois caracter por vez e começa pelo último (por causa do '-')
 	# !du áO
+
+	
+#Converter uma string em uma lista
+cheeses = 'parmesão - muzzarela - cheddar'
+cheese_list = cheeses.split(' - ')
+print(cheese_list)
